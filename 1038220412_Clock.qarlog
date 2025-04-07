@@ -1,0 +1,25 @@
+Quartus II Archive log --	D:/ProgramData/quartus/clock/1038220412_Clock.qarlog
+
+Archive:	D:/ProgramData/quartus/clock/1038220412_Clock.qar
+Date:		Thu Jan 09 20:31:06 2025
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Full Version
+
+	=========== Files Selected: ===========
+D:/ProgramData/quartus/clock/Clock.qpf
+D:/ProgramData/quartus/clock/Clock.qsf
+D:/ProgramData/quartus/clock/Clock.v
+D:/ProgramData/quartus/clock/Waveform.vwf
+D:/ProgramData/quartus/clock/db/Clock.cmp.hdb
+D:/ProgramData/quartus/clock/db/Clock.db_info
+D:/ProgramData/quartus/clock/incremental_db/compiled_partitions/Clock.db_info
+d:/quartus/altera/13.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 8 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Thu Jan 09 20:32:23 2025
+Source archive file:	D:/ProgramData/quartus/clock/1038220412_Clock.qar
+Archive was extracted into	D:/ProgramData/quartus/test/
+		 - successfully.
